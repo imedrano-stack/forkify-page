@@ -16,4 +16,4 @@ This project is a page that allows you to see recipes, and bookmark them, also y
 
 - Upload your own recipes
 
-Site url: https://www.udemy.com/certificate/UC-b43cb721-c4f4-4886-9a56-b9ed01c1a272/
+Site url: https://forkify-ivanmedranorios.netlify.app/
